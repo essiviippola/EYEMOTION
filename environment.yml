@@ -2,5 +2,7 @@ name: junction
 channels:
   - defaults
 dependencies:
-  - requests
+  - python=3.9
+  - ipykernel
   - pandas
+  - requests
