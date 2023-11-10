@@ -1,0 +1,6 @@
+name: junction
+channels:
+  - defaults
+dependencies:
+  - requests
+  - pandas
